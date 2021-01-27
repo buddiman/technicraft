@@ -1,18 +1,35 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Minecraft runtime folders
+asm/
+coremods/
+crash-reports/
+dumps/
+fonts/
+journeymap/
+local/
+logs/
+mods/
+mods-resourcepacks/
+patchouli_books/
+resourcepacks/
+saves/
+screenshots/
+server-resource-packs/
+texturepacks/
+TombManyGraves/
+woot/
+config/agricraft/json/server_team-goennung-de/
 
 # Other files and folders
-.settings/
+.mixin.out/
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Additional Files
+.Re.Auth.cfg
+BotaniaVars.dat
+crafttweaker.log
+OpenComputersMod-1.7.5.192-lua52-native.64.dll
+OpenComputersMod-1.7.5.192-lua53-native.64.dll
+options.txt
+patchouli_data.json
+servers.dat
+usercache.json
+usernamecache.json

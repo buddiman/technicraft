@@ -1,0 +1,6 @@
+//////////////////////////
+// Removed recipes by mod
+//////////////////////////
+
+// Erebus
+recipes.remove(<erebus:wand_of_animation>);

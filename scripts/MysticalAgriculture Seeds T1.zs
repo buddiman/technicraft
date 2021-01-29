@@ -24,7 +24,7 @@ recipes.addShaped(<mysticalagriculture:water_seeds>,
 recipes.addShaped(<mysticalagriculture:nature_seeds>,
 	[[<mysticalagriculture:crafting:6>,<mysticalagriculture:crafting:0>,<mysticalagriculture:crafting:6>],
 	[<mysticalagriculture:crafting:0>,<mysticalagriculture:crafting:17>,<mysticalagriculture:crafting:0>],
-	[<mysticalagriculture:crafting:6>,<mysticalagriculture:crafting:0>,<mysticalagriculture:crafting:6>]);
+	[<mysticalagriculture:crafting:6>,<mysticalagriculture:crafting:0>,<mysticalagriculture:crafting:6>]]);
 
 recipes.addShaped(<mysticalagriculture:ice_seeds>,
 	[[<minecraft:ice>,<mysticalagriculture:crafting:0>,<minecraft:ice>],

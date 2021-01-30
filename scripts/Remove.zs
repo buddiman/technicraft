@@ -7,4 +7,4 @@ print("Removed recipes loaded");
 recipes.remove(<erebus:wand_of_animation>);
 
 // Ex Nihilo Creatio
-recipes.remove(<exnihilocreatio:item_mesh:*>)
+recipes.remove(<exnihilocreatio:item_mesh:*>);

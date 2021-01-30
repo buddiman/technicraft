@@ -7,3 +7,8 @@ var superaiot = VanillaFactory.createItem("super_aiot");
 superaiot.maxStackSize = 64;
 superaiot.rarity = "RARE";
 superaiot.register();
+
+var meshpress = VanillaFactory.createItem("mesh_press");
+meshpress.maxStackSize = 64;
+meshpress.rarity = "UNCOMMON";
+meshpress.register();

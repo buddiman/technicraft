@@ -12,3 +12,8 @@ var meshpress = VanillaFactory.createItem("mesh_press");
 meshpress.maxStackSize = 64;
 meshpress.rarity = "UNCOMMON";
 meshpress.register();
+
+var compressedcocaine = VanillaFactory.createItem("compressed_cocaine");
+compressedcocaine.maxStackSize = 64;
+compressedcocaine.rarity = "EPIC";
+compressedcocaine.register();

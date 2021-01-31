@@ -12,6 +12,6 @@ recipes.addShaped(<mysticalagriculture:storage:5>,
 
 recipes.addShaped(<mysticalagriculture:crafting:1>,
 	[[<contenttweaker:compressed_cocaine>,<mysticalagriculture:crafting:0>,<contenttweaker:compressed_cocaine>],
-	[<mysticalagriculture:crafting:0>,<matc:inferiumcrystal>,<mysticalagriculture:crafting:0>],
+	[<mysticalagriculture:crafting:0>,<matc:inferiumcrystal:*>,<mysticalagriculture:crafting:0>],
 	[<contenttweaker:compressed_cocaine>,<mysticalagriculture:crafting:0>,<contenttweaker:compressed_cocaine>]]);	
 	

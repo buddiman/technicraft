@@ -10,7 +10,7 @@ recipes.addShaped(<mysticalagriculture:storage:5>,
 	[null,null,null]]);
 	
 recipes.addShaped(<mysticalagriculture:crafting:1>,
-	[[<alchemistry:compound:56> * 8 ,<mysticalagriculture:crafting:0>,<alchemistry:compound:56> * 8],
+	[[<contenttweaker:compressed_cocaine>,<mysticalagriculture:crafting:0>,<contenttweaker:compressed_cocaine>],
 	[<mysticalagriculture:crafting:0>,<matc:inferiumcrystal>,<mysticalagriculture:crafting:0>],
-	[<alchemistry:compound:56> * 8,<mysticalagriculture:crafting:0>,<alchemistry:compound:56> * 8]]);	
+	[<contenttweaker:compressed_cocaine>,<mysticalagriculture:crafting:0>,<contenttweaker:compressed_cocaine>]]);	
 	

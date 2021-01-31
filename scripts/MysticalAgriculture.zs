@@ -1,7 +1,7 @@
 # Tweaker scripts for Mystical Agriculture
 print("Mystical Agriculture tweaks loaded");
 
-recipes.remove(<mysticalagriculture:crafting:1>)
+recipes.remove(<mysticalagriculture:crafting:1>);
 
 
 recipes.addShaped(<mysticalagriculture:storage:5>,

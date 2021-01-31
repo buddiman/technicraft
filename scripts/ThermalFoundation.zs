@@ -10,7 +10,7 @@ recipes.addShaped(<thermalfoundation:material:257>,
 	[<thermalfoundation:material:129>,<factorytech:machinepart:14>,<thermalfoundation:material:129>],
 	[null,<thermalfoundation:material:129>,null]]);
 	
-recipes.addShaped(<thermalfoundation:material:257>,
-	[[null,null,<minecraft:redstone]>,
+recipes.addShaped(<thermalfoundation:material:513>,
+	[[null,null,<minecraft:redstone>],
 	[null,<minecraft:gold_ingot>,null],
 	[<factorytech:tuningfork>,null,null]]);	

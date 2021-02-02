@@ -58,4 +58,15 @@ func init()
 			.bind('h', item("skull", 5))
 		.build(2);
 	*/
+	
+	var dirtpanel = panel()
+		.name("dirt_panel")
+		.generation("5")
+		.capacity("1000000")
+		.transfer("10")
+	.buildAndRegister()
+		.langBuilder()
+			.put("en_us", "Dirt Solar Panel")
+			.build()
+		
 }

@@ -11,25 +11,25 @@ recipes.addShaped(<alchemistry:electrolyzer>,
 	[<minecraft:gold_ingot>,<minecraft:quartz_block>,<minecraft:gold_ingot>],
 	[<betternether:cincinnasite>,<minecraft:piston>,<betternether:cincinnasite>]]);
 
-recipes.addShaped(<alchemistry:alchemistry:chemical_dissolver>,
+recipes.addShaped(<alchemistry:chemical_dissolver>,
 	[[<betternether:cincinnasite>,<minecraft:quartz_block>,<betternether:cincinnasite>],
 	[<minecraft:iron_ingot>,<betternether:cincinnasite_block>,<minecraft:iron_ingot>],
 	[<betternether:cincinnasite>,<minecraft:piston>,<betternether:cincinnasite>]]);
 	
-recipes.addShaped(<alchemistry:alchemistry:chemical_combiner>,
+recipes.addShaped(<alchemistry:chemical_combiner>,
 	[[<minecraft:iron_ingot>,<betternether:cincinnasite_forged>,<minecraft:iron_ingot>],
 	[<minecraft:iron_ingot>,<minecraft:obsidian>,<minecraft:iron_ingot>],
-	[<minecraft:iron_ingot>,<minecraft:piston>,<minecraft:iron_ingot>]]);	
+	[<minecraft:iron_ingot>,<minecraft:piston>,<minecraft:iron_ingot>]]);
 
-recipes.addShaped(<alchemistry:alchemistry:atomizer>,
+recipes.addShaped(<alchemistry:atomizer>,
 	[[<minecraft:iron_ingot>,<minecraft:stone_pressure_plate>,<minecraft:iron_ingot>],
 	[<minecraft:stone_pressure_plate>,<minecraft:stone_pressure_plate>,<minecraft:stone_pressure_plate>],
-	[<minecraft:stone_pressure_plate>,betternether:cincinnasite:pedestal,<minecraft:stone_pressure_plate>]]);	
+	[<minecraft:stone_pressure_plate>,<betternether:cincinnasite:pedestal>,<minecraft:stone_pressure_plate>]]);	
 
-recipes.addShaped(<alchemistry:alchemistry:liquifier>,
+recipes.addShaped(<alchemistry:liquifier>,
 	[[<minecraft:iron_ingot>,<minecraft:stone_pressure_plate>,<minecraft:iron_ingot>],
 	[<minecraft:stone_pressure_plate>,<minecraft:stone_pressure_plate>,<minecraft:stone_pressure_plate>],
-	[<minecraft:iron_ingot>,betternether:cincinnasite:pedestal,<minecraft:iron_ingot>]]);
+	[<minecraft:iron_ingot>,<betternether:cincinnasite:pedestal>,<minecraft:iron_ingot>]]);
 
 
 

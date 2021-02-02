@@ -17,3 +17,13 @@ var compressedcocaine = VanillaFactory.createItem("compressed_cocaine");
 compressedcocaine.maxStackSize = 64;
 compressedcocaine.rarity = "EPIC";
 compressedcocaine.register();
+
+var compressedcocaine = VanillaFactory.createItem("SVW");
+compressedcocaine.maxStackSize = 64;
+compressedcocaine.rarity = "EPIC";
+compressedcocaine.register();
+
+var compressedcocaine = VanillaFactory.createItem("SGE");
+compressedcocaine.maxStackSize = 64;
+compressedcocaine.rarity = "EPIC";
+compressedcocaine.register();

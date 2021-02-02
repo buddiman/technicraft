@@ -6,5 +6,4 @@ mods.alchemistry.Util.createCompound(1000, "noble gas", 255, 185, 15,
  ["neon", 32],
  ["argon", 19],
  ["kypton", 4],
- ["xenon", 1],
- ["radium", 64]]);
+ ["xenon", 1]]);

@@ -24,21 +24,21 @@ recipes.addShaped(<alchemistry:chemical_combiner>,
 recipes.addShaped(<alchemistry:atomizer>,
 	[[<minecraft:iron_ingot>,<minecraft:stone_pressure_plate>,<minecraft:iron_ingot>],
 	[<minecraft:stone_pressure_plate>,<minecraft:stone_pressure_plate>,<minecraft:stone_pressure_plate>],
-	[<minecraft:stone_pressure_plate>,<betternether:cincinnasite:pedestal>,<minecraft:stone_pressure_plate>]]);	
+	[<minecraft:stone_pressure_plate>,<betternether:cincinnasite_pedestal>,<minecraft:stone_pressure_plate>]]);	
 
 recipes.addShaped(<alchemistry:liquifier>,
 	[[<minecraft:iron_ingot>,<minecraft:stone_pressure_plate>,<minecraft:iron_ingot>],
 	[<minecraft:stone_pressure_plate>,<minecraft:stone_pressure_plate>,<minecraft:stone_pressure_plate>],
-	[<minecraft:iron_ingot>,<betternether:cincinnasite:pedestal>,<minecraft:iron_ingot>]]);
+	[<minecraft:iron_ingot>,<betternether:cincinnasite_pedestal>,<minecraft:iron_ingot>]]);
 
 
 
 mods.alchemistry.Combiner.addRecipe(<contenttweaker:compressed_cocaine>,
     [<alchemistry:compound:56> *16, null, null, null]);
 
-mods.alchemistry.Combiner.addRecipe(<contenttweaker:SVW>,
+mods.alchemistry.Combiner.addRecipe(<contenttweaker:svw>,
     [<alchemistry:element:16> *64, <alchemistry:element:23> *8, <alchemistry:element:74> *16, null]);
 	
-mods.alchemistry.Combiner.addRecipe(<contenttweaker:SGE>,
+mods.alchemistry.Combiner.addRecipe(<contenttweaker:sge>,
     [<alchemistry:element:16> *64, <alchemistry:element:32> *32, null, null]);	
 	

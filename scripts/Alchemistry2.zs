@@ -154,7 +154,7 @@ mods.alchemistry.Util.createCompound(1020, "actinides #1", 52, 235, 113,
  ["plutonium", 1],
  ["americium", 1]]);
  
-mods.alchemistry.Util.createCompound(1021, "actinides #1", 52, 235, 155,
+mods.alchemistry.Util.createCompound(1021, "actinides #2", 52, 235, 155,
 [["curium", 1],
  ["berkelium", 1],
  ["californium", 1],

@@ -7,3 +7,10 @@ recipes.addShaped(<contenttweaker:super_aiot>,
 	[[<actuallyadditions:item_paxel_crystal_green>,<actuallyadditions:item_paxel_crystal_white>,<actuallyadditions:item_paxel_crystal_black>],
 	[<actuallyadditions:item_paxel_crystal_light_blue>,<actuallyadditions:item_paxel_crystal_blue>,<actuallyadditions:item_paxel_crystal_red>],
 	[<actuallyadditions:obsidian_paxel>,<actuallyadditions:emerald_paxel>,<actuallyadditions:diamond_paxel>]]);
+
+// Noble Diamond	
+recipes.addShaped(<contenttweaker:noble_diamond>,
+	[[<contenttweaker:svw>,<contenttweaker:svw>,<contenttweaker:svw>],
+	[<contenttweaker:svw>,<minecraft:diamond>,<contenttweaker:svw>],
+	[<contenttweaker:svw>,<contenttweaker:svw>,<contenttweaker:svw>]]);
+	

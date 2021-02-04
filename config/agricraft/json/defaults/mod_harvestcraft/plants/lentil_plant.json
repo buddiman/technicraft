@@ -1,9 +1,9 @@
-e{
-  "path": "mod_harvestcraft/plants/lentils_plant.json",
+{
+  "path": "mod_harvestcraft/plants/lentil_plant.json",
   "enabled": true,
-  "id": "harvestcraft:lentils_plant",
+  "id": "harvestcraft:lentil_plant",
   "plant_name": "Lentils",
-  "seed_name": "Lentil Seeds",
+  "seed_name": "Lentil Seed",
   "seed_items": [
     {
       "item": "harvestcraft:lentilseeditem",
@@ -59,14 +59,14 @@ e{
     "render_type": "hash",
     "seed_texture": "harvestcraft:items/lentilitem",
     "plant_textures": [
-      "harvestcraft:blocks/crops/lentil_stage_0",
-      "harvestcraft:blocks/crops/lentil_stage_0",
-      "harvestcraft:blocks/crops/lentil_stage_0",
-      "harvestcraft:blocks/crops/lentil_stage_1",
-      "harvestcraft:blocks/crops/lentil_stage_1",
-      "harvestcraft:blocks/crops/lentil_stage_2",
-      "harvestcraft:blocks/crops/lentil_stage_2",
-      "harvestcraft:blocks/crops/lentil_stage_3"
+      "harvestcraft:blocks/crops/lentils_stage_0",
+      "harvestcraft:blocks/crops/lentils_stage_0",
+      "harvestcraft:blocks/crops/lentils_stage_0",
+      "harvestcraft:blocks/crops/lentils_stage_1",
+      "harvestcraft:blocks/crops/lentils_stage_1",
+      "harvestcraft:blocks/crops/lentils_stage_2",
+      "harvestcraft:blocks/crops/lentils_stage_2",
+      "harvestcraft:blocks/crops/lentils_stage_3"
     ]
   }
 }

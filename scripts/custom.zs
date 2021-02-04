@@ -11,6 +11,6 @@ recipes.addShaped(<contenttweaker:super_aiot>,
 // Noble Diamond	
 recipes.addShaped(<contenttweaker:noble_gemstone>,
 	[[<contenttweaker:svw>,<contenttweaker:svw>,<contenttweaker:svw>],
-	[<contenttweaker:svw>,<minecraft:diamond>,<contenttweaker:svw>],
+	[<contenttweaker:svw>,<aether:legacy:zanite_gemstone>,<contenttweaker:svw>],
 	[<contenttweaker:svw>,<contenttweaker:svw>,<contenttweaker:svw>]]);
 	

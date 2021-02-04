@@ -9,7 +9,7 @@ recipes.addShaped(<contenttweaker:super_aiot>,
 	[<actuallyadditions:obsidian_paxel>,<actuallyadditions:emerald_paxel>,<actuallyadditions:diamond_paxel>]]);
 
 // Noble Diamond	
-recipes.addShaped(<contenttweaker:noble_diamond>,
+recipes.addShaped(<contenttweaker:noble_gemstone>,
 	[[<contenttweaker:svw>,<contenttweaker:svw>,<contenttweaker:svw>],
 	[<contenttweaker:svw>,<minecraft:diamond>,<contenttweaker:svw>],
 	[<contenttweaker:svw>,<contenttweaker:svw>,<contenttweaker:svw>]]);

@@ -28,7 +28,7 @@ sge.maxStackSize = 64;
 sge.rarity = "EPIC";
 sge.register();
 
-var noblediamond = VanillaFactory.createItem("noble_diamond");
-noblediamond.maxStackSize = 64;
-noblediamond.rarity = "EPIC";
-noblediamond.register();
+var noblegemstone = VanillaFactory.createItem("noble_gemstone");
+noblegemstone.maxStackSize = 64;
+noblegemstone.rarity = "EPIC";
+noblegemstone.register();

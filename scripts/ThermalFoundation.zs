@@ -4,7 +4,8 @@ print("Thermal Foundation tweaks loaded");
 
 recipes.remove(<thermalfoundation:material:257>);
 recipes.remove(<thermalfoundation:material:513>);
-recipes.removeByRegex("unidict:gear.*");
+// remove all gear recipes
+mods.unidict.removalByKind.get("Crafting").remove("gear");
 
 //Tin Gear
 recipes.addShaped(<thermalfoundation:material:257>,

@@ -59,14 +59,14 @@
     "render_type": "hash",
     "seed_texture": "harvestcraft:items/lentilitem",
     "plant_textures": [
-      "harvestcraft:blocks/crops/lentils_stage_0",
-      "harvestcraft:blocks/crops/lentils_stage_0",
-      "harvestcraft:blocks/crops/lentils_stage_0",
-      "harvestcraft:blocks/crops/lentils_stage_1",
-      "harvestcraft:blocks/crops/lentils_stage_1",
-      "harvestcraft:blocks/crops/lentils_stage_2",
-      "harvestcraft:blocks/crops/lentils_stage_2",
-      "harvestcraft:blocks/crops/lentils_stage_3"
+      "harvestcraft:blocks/crops/lentil_stage_0",
+      "harvestcraft:blocks/crops/lentil_stage_0",
+      "harvestcraft:blocks/crops/lentil_stage_0",
+      "harvestcraft:blocks/crops/lentil_stage_1",
+      "harvestcraft:blocks/crops/lentil_stage_1",
+      "harvestcraft:blocks/crops/lentil_stage_2",
+      "harvestcraft:blocks/crops/lentil_stage_2",
+      "harvestcraft:blocks/crops/lentil_stage_3"
     ]
   }
 }

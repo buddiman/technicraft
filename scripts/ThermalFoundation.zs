@@ -1,8 +1,8 @@
 # Tweaker scripts for Thermal Foundation
 print("Thermal Foundation tweaks loaded");
 
-
-recipes.remove(<thermalfoundation:material:257>);
+recipes.remove(<thermalfoundation:material:26>);
+recipes.remove(<thermalfoundation:material:27>);
 recipes.remove(<thermalfoundation:material:513>);
 // remove all gear recipes
 mods.unidict.removalByKind.get("Crafting").remove("gear");

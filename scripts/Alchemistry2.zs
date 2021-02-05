@@ -87,10 +87,10 @@ mods.alchemistry.Util.createCompound(1011, "#07 manganese group", 52, 235, 213,
  ["bohrium", 3]]);
  
 mods.alchemistry.Util.createCompound(1012, "#06 chromium group", 52, 79, 235,
-[["chromium", 1],
- ["molybdenum", 1],
- ["tungsten", 1],
- ["seaborgium", 1]]);
+[["chromium", 14],
+ ["molybdenum", 2],
+ ["tungsten", 43],
+ ["seaborgium", 6]]);
  
 mods.alchemistry.Util.createCompound(1013, "#05 vanadium group", 64, 52, 235,
 [["vanadium", 22],

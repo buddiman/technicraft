@@ -2,7 +2,7 @@
 print("JAOPCA tweaks loaded");
 
 recipes.remove(<jaopca:item_gearcoal>);
-recipes.remove(<jaopca:item_gearchargeedcertusquartz>);
+recipes.remove(<jaopca:item_gearchargedcertusquartz>);
 recipes.remove(<jaopca:item_gearcertusquartz>);
 recipes.remove(<jaopca:item_gearapatite>);
 recipes.remove(<jaopca:item_gearyellorium>);

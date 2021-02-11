@@ -32,7 +32,7 @@ recipes.addShaped(<alchemistry:liquifier>,
 	[<minecraft:iron_ingot>,<betternether:cincinnasite_pedestal>,<minecraft:iron_ingot>]]);
 
 
-
+//combiner
 mods.alchemistry.Combiner.addRecipe(<contenttweaker:compressed_cocaine>,
     [<alchemistry:compound:56> *16, null, null, null]);
 
@@ -42,3 +42,21 @@ mods.alchemistry.Combiner.addRecipe(<contenttweaker:svw>,
 mods.alchemistry.Combiner.addRecipe(<contenttweaker:sge>,
     [<alchemistry:element:16> *64, <alchemistry:element:32> *32, null, null]);	
 	
+mods.alchemistry.Combiner.addRecipe(<contenttweaker:sge>,
+    [<alchemistry:element:16> *64, <alchemistry:element:32> *32, null, null]);	
+
+//dissolver
+mods.alchemistry.Dissolver.addRecipe(<minecraft:skull:2>, false, 3,
+[[100, <alchemistry:element:150>], 
+
+mods.alchemistry.Dissolver.addRecipe(<minecraft:skull:0>, false, 3,
+[[100, <alchemistry:element:150>], 
+
+mods.alchemistry.Dissolver.addRecipe(<minecraft:skull:4>, false, 3,
+[[100, <alchemistry:element:150>], 
+
+mods.alchemistry.Dissolver.addRecipe(<enderio:block_enderman_skull>, false, 8,
+[[100, <alchemistry:element:150>], 
+
+mods.alchemistry.Dissolver.addRecipe(<minecraft:skull:5>, false, 15,
+[[100, <alchemistry:element:150>], 

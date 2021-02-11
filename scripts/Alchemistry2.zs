@@ -1,6 +1,11 @@
 #loader alchemistry
 print("alchemistry2 tweaks loaded");
 
+
+//elements
+mods.alchemistry.Util.createElement(150,"hellnoium","Hl", 214, 20, 6);
+
+//compounds
 mods.alchemistry.Util.createCompound(1000, "#18 noble gas", 255, 185, 15,
 [["helium", 7],
  ["neon", 32],
@@ -162,3 +167,13 @@ mods.alchemistry.Util.createCompound(1021, "actinides #2", 52, 235, 155,
  ["fermium", 3],
  ["mendelevium", 1],
  ["nobelium", 5]]); 
+
+mods.alchemistry.Util.createCompound(1100, "bloodonium", 158, 16, 3,
+[["hellnoium", 2],
+ ["calcium", 5],
+ ["phosphorus", 6],
+ ["oxygen", 28],
+ ["hydrogen", 64],
+ ["carbon", 43],
+ ["sulfur", 1],
+ ["nitrogen", 1]]); 

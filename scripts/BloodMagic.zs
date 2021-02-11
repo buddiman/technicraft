@@ -8,11 +8,11 @@ recipes.addShaped(<bloodmagic:altar>,
 	[<the_elven_forest:crushedmoonlotus>,<mekanism:controlcircuit:2>,<the_elven_forest:crushedmoonlotus>],
 	[<minecraft:gold_ingot>,<bloodmagic:monster_soul:0>,<minecraft:gold_ingot>]]);
 	
-//BloodAltar Recipes remove
+//BloodAltar Recipes remove - iteminput - 
 
-mods.bloodmagic.BloodAltar.removeRecipe(<bloodmagic:slate:0>);
+mods.bloodmagic.BloodAltar.removeRecipe(<minecraft:stone>);
 
 //BloodAltar Recipes Add
-//mods.bloodmagic.BloodAltar.addRecipe(<**INPUT>, <**OUTPUT>, **ALTAR TIER , **SyphonValue ,** ConsumeRate ,**DrainRatewhen Empty);
+//mods.bloodmagic.BloodAltar.addRecipe(<**output>, <**input>, **ALTAR TIER , **SyphonValue ,** ConsumeRate ,**DrainRatewhen Empty);
 
-mods.bloodmagic.BloodAltar.addRecipe(<alchemistry:compound:1100>, <bloodmagic:slate:0>, 0, 1000, 30, 50);
+mods.bloodmagic.BloodAltar.addRecipe(<bloodmagic:slate:0>, <alchemistry:compound:1100>, 0, 1000,30,60);

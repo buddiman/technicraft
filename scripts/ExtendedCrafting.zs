@@ -3,9 +3,8 @@ print("Extended Crafting tweaks loaded");
 
 
 //remove
-recipes.removeShapeless("extendedcrafting:black_iron_ingot", <extendedcrafting:material>, [<ore:ingotIron>, <ore:dyeBlack>]);
-
-recipes.removeShaped("extendedcrafting:black_iron_slate", <extendedcrafting:material:2>, [[<extendedcrafting:material>, <extendedcrafting:material>]]);
+recipes.removeShapeless(<extendedcrafting:material>, [<ore:ingotIron>, <ore:dyeBlack>]);
+recipes.remove(<extendedcrafting:material:2>)
 
 //Addition
 recipes.addShaped(<extendedcrafting:material>,

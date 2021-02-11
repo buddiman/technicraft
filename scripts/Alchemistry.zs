@@ -47,16 +47,16 @@ mods.alchemistry.Combiner.addRecipe(<contenttweaker:sge>,
 
 //dissolver
 mods.alchemistry.Dissolver.addRecipe(<minecraft:skull:2>, false, 3,
-[[100, <alchemistry:element:150>], 
+[[100, <alchemistry:element:150>]]);
 
 mods.alchemistry.Dissolver.addRecipe(<minecraft:skull:0>, false, 3,
-[[100, <alchemistry:element:150>], 
+[[100, <alchemistry:element:150>]]);
 
 mods.alchemistry.Dissolver.addRecipe(<minecraft:skull:4>, false, 3,
-[[100, <alchemistry:element:150>], 
+[[100, <alchemistry:element:150>]]);
 
 mods.alchemistry.Dissolver.addRecipe(<enderio:block_enderman_skull>, false, 8,
-[[100, <alchemistry:element:150>], 
+[[100, <alchemistry:element:150>]]);
 
 mods.alchemistry.Dissolver.addRecipe(<minecraft:skull:5>, false, 15,
-[[100, <alchemistry:element:150>], 
+[[100, <alchemistry:element:150>]]);

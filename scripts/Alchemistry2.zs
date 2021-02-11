@@ -177,3 +177,10 @@ mods.alchemistry.Util.createCompound(1100, "bloodonium", 158, 16, 3,
  ["carbon", 43],
  ["sulfur", 1],
  ["nitrogen", 1]]); 
+
+mods.alchemistry.Util.createCompound(1101, "Blackorium", 0, 0, 0,
+[["hydrogen", 17],
+ ["carbon", 11],
+ ["Titanium", 2],
+ ["oxygen", 6],
+ ["nitrogen", 1]]);

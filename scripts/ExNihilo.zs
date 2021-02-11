@@ -9,7 +9,7 @@ Sieve.removeAll();
 
 //Addition string sieve
 
-Sieve.addStringMeshRecipe(<extrautils2:compressedsand>, <minecraft:cocoa_beans>, 0.03);
+Sieve.addStringMeshRecipe(<extrautils2:compressedsand>, <minecraft:minecraft:dye:3>, 0.03);
 Sieve.addStringMeshRecipe(<extrautils2:compressedsand>, <forestry:apatite>, 0.01);
 
 Sieve.addStringMeshRecipe(<extrautils2:compressedgravel>, <minecraft:flint>, 0.25);
@@ -51,7 +51,7 @@ Sieve.addIronMeshRecipe(<extrautils2:compressedgravel>, <minecraft:emerald>, 0.0
 Sieve.addIronMeshRecipe(<extrautils2:compressedgravel>, <techreborn:gem:2>, 0.008);
 Sieve.addIronMeshRecipe(<extrautils2:compressedgravel>, <techreborn:gem:1>, 0.008);
 Sieve.addIronMeshRecipe(<extrautils2:compressedgravel>, <techreborn:gem:0>, 0.008);
-Sieve.addIronMeshRecipe(<extrautils2:compressedgravel>, <astralsorcery:itemcraftingcomponent:0>, 0,005);
+Sieve.addIronMeshRecipe(<extrautils2:compressedgravel>, <astralsorcery:itemcraftingcomponent:0>, 0.005);
 Sieve.addIronMeshRecipe(<extrautils2:compressedgravel>, <exnihilocreatio:item_ore_titanium>, 0.005);
 Sieve.addIronMeshRecipe(<extrautils2:compressedgravel>, <exnihilocreatio:item_ore_thorium>, 0.005);
 Sieve.addIronMeshRecipe(<extrautils2:compressedgravel>, <exnihilocreatio:item_ore_platinum>, 0.005);

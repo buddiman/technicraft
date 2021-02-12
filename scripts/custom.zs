@@ -14,3 +14,8 @@ recipes.addShaped(<contenttweaker:noble_gemstone>,
 	[<contenttweaker:svw>,<aether_legacy:zanite_gemstone>,<contenttweaker:svw>],
 	[<contenttweaker:svw>,<contenttweaker:svw>,<contenttweaker:svw>]]);
 	
+//Marble
+recipes.addShaped(<chisel:marble2:7>,
+	[[<minecraft:stone>,<minecraft:stone>,<minecraft:stone>],
+	[<minecraft:stone>,<jaopca:item_dustsmallaquamarine>,<minecraft:stone>],
+	[<minecraft:stone>,<minecraft:stone>,<minecraft:stone>]]);

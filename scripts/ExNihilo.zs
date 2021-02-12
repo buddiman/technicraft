@@ -5,4 +5,3 @@ print("ExNihilo tweaks loaded");
 recipes.remove(<exnihilocreatio:block_sieve>);
 recipes.remove(<excompressum:auto_sieve>);
 
-mods.exnihilocreatio.Sieve.removeAll(); 

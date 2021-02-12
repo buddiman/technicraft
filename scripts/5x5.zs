@@ -1,4 +1,4 @@
-# Tweaker scripts for Extended Crafting 5x5
+# Tweaker scripts for 5x5
 print("Extended Crafting 5x5 tweaks loaded");
 
 

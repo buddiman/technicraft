@@ -1,4 +1,4 @@
-# Tweaker scripts for Extended Crafting
+#modloaded extendedcrafting
 print("Extended Crafting tweaks loaded");
 
 

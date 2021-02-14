@@ -207,13 +207,6 @@ mods.extendedcrafting.TableCrafting.addShaped(<mysticalagriculture:sky_stone_see
 
 mods.extendedcrafting.TableCrafting.addShaped(<mysticalagriculture:certus_quartz_seeds>, 
 	[[<mekanism:crystal:1>, <bloodmagic:item_demon_crystal:1>, <bloodmagic:item_demon_crystal:0>, <bloodmagic:item_demon_crystal:2>, <mekanism:crystal:1>], 
-	[<bloodmagic:item_demon_crystal:1>, <>, <>, <>, <bloodmagic:item_demon_crystal:2>], 
-	[<bloodmagic:item_demon_crystal:0>, <>, <mysticalagriculture:crafting:19>, <>, <bloodmagic:item_demon_crystal:0>], 
-	[<bloodmagic:item_demon_crystal:4>, <>, <>, <>, <bloodmagic:item_demon_crystal:3>], 
-	[<mekanism:crystal:1>, <bloodmagic:item_demon_crystal:4>, <bloodmagic:item_demon_crystal:0>, <bloodmagic:item_demon_crystal:3>, <mekanism:crystal:1>]]);  
-
-mods.extendedcrafting.TableCrafting.addShaped(<mysticalagriculture:_seeds>, 
-	[[<mekanism:crystal:1>, <bloodmagic:item_demon_crystal:1>, <bloodmagic:item_demon_crystal:0>, <bloodmagic:item_demon_crystal:2>, <mekanism:crystal:1>], 
 	[<bloodmagic:item_demon_crystal:1>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <bloodmagic:item_demon_crystal:2>], 
 	[<bloodmagic:item_demon_crystal:0>, <appliedenergistics2:material:10>, <mysticalagriculture:crafting:19>, <appliedenergistics2:material:10>, <bloodmagic:item_demon_crystal:0>], 
 	[<bloodmagic:item_demon_crystal:4>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <bloodmagic:item_demon_crystal:3>], 

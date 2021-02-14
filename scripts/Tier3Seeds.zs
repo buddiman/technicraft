@@ -125,7 +125,7 @@ mods.extendedcrafting.TableCrafting.addShaped(<mysticalagriculture:blizz_seeds>,
 	[[<mekanism:crystal:1>, <bloodmagic:item_demon_crystal:1>, <bloodmagic:item_demon_crystal:0>, <bloodmagic:item_demon_crystal:2>, <mekanism:crystal:1>], 
 	[<bloodmagic:item_demon_crystal:1>, <mysticalagriculture:chunk:21>, <mysticalagriculture:chunk:21>, <mysticalagriculture:chunk:21>, <bloodmagic:item_demon_crystal:2>], 
 	[<bloodmagic:item_demon_crystal:0>, <mysticalagriculture:chunk:21>, <mysticalagriculture:crafting:19>, <mysticalagriculture:chunk:21>, <bloodmagic:item_demon_crystal:0>], 
-	[<bloodmagic:item_demon_crystal:4>, <mysticalagriculture:chunk:21>, <mysticalagriculture:chunk:21>, <mysticalagriculture:chunk:21,> <bloodmagic:item_demon_crystal:3>], 
+	[<bloodmagic:item_demon_crystal:4>, <mysticalagriculture:chunk:21>, <mysticalagriculture:chunk:21>, <mysticalagriculture:chunk:21>, <bloodmagic:item_demon_crystal:3>], 
 	[<mekanism:crystal:1>, <bloodmagic:item_demon_crystal:4>, <bloodmagic:item_demon_crystal:0>, <bloodmagic:item_demon_crystal:3>, <mekanism:crystal:1>]]);  
 	
 mods.extendedcrafting.TableCrafting.addShaped(<mysticalagriculture:blitz_seeds>, 

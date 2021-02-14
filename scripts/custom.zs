@@ -19,3 +19,9 @@ recipes.addShaped(<chisel:marble2:7>,
 	[[<minecraft:stone>,<minecraft:stone>,<minecraft:stone>],
 	[<minecraft:stone>,<jaopca:item_dustsmallaquamarine>,<minecraft:stone>],
 	[<minecraft:stone>,<minecraft:stone>,<minecraft:stone>]]);
+
+//Premium Gear
+recipes.addShaped(<contenttweaker:premium_gear>,
+	[[<thermalfoundation:material:24>,<thermalfoundation:material:256>,<thermalfoundation:material:257>],
+	[<thermalfoundation:material:260>,<factorytech:machinepart:14>,<thermalfoundation:material:259>],
+	[<jaopca:item_gearquartz>,<thermalfoundation:material:25>,<thermalfoundation:material:258>]]);

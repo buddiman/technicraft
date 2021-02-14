@@ -32,3 +32,8 @@ var noblegemstone = VanillaFactory.createItem("noble_gemstone");
 noblegemstone.maxStackSize = 64;
 noblegemstone.rarity = "EPIC";
 noblegemstone.register();
+
+var premiumgear = VanillaFactory.createItem("premium_gear");
+premiumgear.maxStackSize = 64;
+premiumgear.rarity = "EPIC";
+premiumgear.register();
